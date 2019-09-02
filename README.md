@@ -7,4 +7,4 @@ To run the project,
 
 flutter run
 
-<img src="https://miro.medium.com/max/748/1*715GU9k6CGqkjXkWSg8-lg.jpeg">
+<img src="https://i.ytimg.com/vi/r8mjuCImfcI/maxresdefault.jpg">
